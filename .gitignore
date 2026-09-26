@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.joblib
+.DS_Store
+results/metrics/*.csv
+results/figures/*.png
+results/predictions/*.csv
